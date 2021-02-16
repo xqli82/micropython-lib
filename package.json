@@ -1,0 +1,13 @@
+{
+  "name": "micropython-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push":"git add . && git commit -m 'more' && git push -u origin master "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
